@@ -99,6 +99,12 @@ body {
   padding-left: 0;
   list-style: none;
 }
+.nav-subscriptions {
+  margin-top: 0;
+  margin-bottom: 104px;
+  padding-left: 0;
+  list-style: none;
+}
 .nav-item {
   margin-bottom: 28px;
   color: #898989;
@@ -160,6 +166,7 @@ body {
   margin-left: 3px;
 }
 .icon-setting {
+  padding: 0;
   margin-right: 12px;
   margin-left: 2px;
 }
